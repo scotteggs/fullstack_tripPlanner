@@ -1,0 +1,20 @@
+body {
+  height: 100%; }
+
+.dayButton {
+  border-radius: 50px; }
+
+.selectors {
+  background-color: #FFCC66;
+  padding: 20px; }
+
+.plans {
+  background-color: #33CC33;
+  height: 45%;
+  padding: 20px; }
+
+#map-canvas {
+  height: 85vh; }
+
+.ui-container {
+  height: 85vh; }
