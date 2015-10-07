@@ -1,5 +1,5 @@
 body {
-	height: 100%
+	background-color: brown;
 }
 
 .dayButton {
@@ -13,8 +13,12 @@ body {
 
 .plans{
 	background-color: #33CC33;
-	height: 45%;
+	height: 100%;
 	padding: 20px;
+}
+
+.selectors, .plans, #map-canvas {
+	border-radius: 30px;
 }
 
 .col-sm-8 {
