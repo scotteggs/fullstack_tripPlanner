@@ -1,5 +1,5 @@
 body {
-  height: 100%; }
+  background-color: brown; }
 
 .dayButton {
   border-radius: 50px; }
@@ -15,9 +15,17 @@ body {
 
 .plans {
   background-color: #33CC33;
+<<<<<<< HEAD
   padding: 20px;
   height: 45%;
   vertical-align: bottom; }
+=======
+  height: 100%;
+  padding: 20px; }
+>>>>>>> 50331a6c9cae39c9c42eb755db312aa3d70b2556
+
+.selectors, .plans, #map-canvas {
+  border-radius: 30px; }
 
 #map-canvas {
   height: 85vh; }
