@@ -4,7 +4,7 @@ function initialize_gmaps() {
     // set the map options hash
     var mapOptions = {
         center: myLatlng,
-        zoom: 16,
+        zoom: 14,
         mapTypeId: google.maps.MapTypeId.ROADMAP
     };
     // get the maps div's HTML obj

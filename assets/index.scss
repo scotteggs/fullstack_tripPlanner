@@ -9,12 +9,19 @@ body {
 .selectors{
 	background-color: #FFCC66;
 	padding: 20px;
+	margin-bottom: 30px;
+	height: 45% 
+}
+
+.selections {
+	margin: 0px;
 }
 
 .plans{
 	background-color: #33CC33;
-	height: 45%;
 	padding: 20px;
+	height: 45%;
+	vertical-align: bottom;
 }
 
 .col-sm-8 {
@@ -33,3 +40,4 @@ body {
 .ui-container{
 	height: 85vh;
 }
+
